@@ -8,7 +8,6 @@ I'm a 28 years old developper based in Belgium (Tournai).
 
 📚 I'm currently improving my skills
 
-🔭 Current Endeavors
 
 ✨ Facts
 
