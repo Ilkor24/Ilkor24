@@ -8,6 +8,7 @@ I'm a 28 years old developper based in Belgium (Tournai).
 🔭 Current Endeavors
 
 ✨ Facts
+
 Passionate about AI & new tech and reading, I'm also a swimmer.
 
 💻 Skills
@@ -22,4 +23,5 @@ Passionate about AI & new tech and reading, I'm also a swimmer.
 - `Figma`
 
 📫 Contact
+
 For a quick response and professional inquiries, reach out via Linkedin or email at mathys.meuris@gmail.com
