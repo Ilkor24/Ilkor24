@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Ilkor24/Ilkor24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 28 years old developper based in Belgium (Tournai).
 
-Here are some ideas to get you started:
+🧑‍🏫 Student at Epitech
+🔭 I’m currently looking for opportunities as an internship 
+📚 I'm currently improving my skills
+🔭 Current Endeavors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Facts
+Passionate about AI & new tech and reading, I'm also a swimmer.
+
+💻 Skills
+
+# Ruby / Ruby on Rails
+# React
+# Tailwind
+# JS
+# BootStrap
+# PostgreSQL
+# Git
+# Figma
+
+📫 Contact
+For a quick response and professional inquiries, reach out via Linkedin or email at mathys.meuris@gmail.com
