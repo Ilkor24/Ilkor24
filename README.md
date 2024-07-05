@@ -3,8 +3,11 @@
 I'm a 28 years old developper based in Belgium (Tournai).
 
 🧑‍🏫 Student at Epitech
+
 🔭 I’m currently looking for opportunities as an internship 
+
 📚 I'm currently improving my skills
+
 🔭 Current Endeavors
 
 ✨ Facts
